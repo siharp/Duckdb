@@ -1,0 +1,5 @@
+/env/
+result.csv
+result.parquet
+test.db
+flight-history.csv
